@@ -1,2 +1,4 @@
 # hello-world
-Just another repository 
+
+Hey there,  fellas! 
+McGarret5 here... Just passing by! 
